@@ -56,4 +56,4 @@ maze-search-visualizer/
 ## Author
 Shaun Webb
 
-*Note:was used to assist with debugging, testing and documentation.
+*Note: AI was used to assist with debugging, testing and documentation.
