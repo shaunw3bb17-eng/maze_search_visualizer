@@ -55,3 +55,5 @@ maze-search-visualizer/
 
 ## Author
 Shaun Webb
+
+*Note:was used to assist with debugging, testing and documentation.
